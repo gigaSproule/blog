@@ -23,11 +23,11 @@ thumbnail: true
 
 # Contacts
 contacts:
+  facebook: http://facebook.com/benjaminsproule
   github: http://github.com/gigaSproule
-  twitter: 'http://twitter.com/gigaSproule'
-  facebook: '#'
-  dribbble: '#'
-  rss: /atom.xml
+  google-plus: http://plus.google.com/+BenjaminSproule
+  linkedin: http://uk.linkedin.com/pub/benjamin-sproule/50/744/754
+  twitter: http://twitter.com/gigaSproule
 
 # Links
 links:
