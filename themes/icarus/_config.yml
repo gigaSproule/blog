@@ -2,9 +2,7 @@
 menu:
   Home: /
   Archives: /archives
-  Categories: /categories
-  Tags: /tags
-  About: /about
+  About: http://www.benjaminsproule.com
 
 # Content
 excerpt_link: Read More
