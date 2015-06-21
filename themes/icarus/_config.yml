@@ -29,8 +29,6 @@ contacts:
   linkedin: http://uk.linkedin.com/pub/benjamin-sproule/50/744/754
   twitter: http://twitter.com/gigaSproule
 
-email: benjamin@benjaminsproule.com
-
 # Links
 links:
   Hexo: http://hexo.io
@@ -42,3 +40,4 @@ twitter:
 google_plus:
 fb_admins:
 fb_app_id:
+email: benjamin@benjaminsproule.com
