@@ -2,8 +2,6 @@
 menu:
   Home: /
   Archives: /archives
-  Categories: /categories
-  Tags: /tags
   Experience: /experience
   Technical Skills: /technical-skills
   Non-Technical Skills: /non-technical-skills
@@ -14,6 +12,8 @@ fancybox: true
 
 # Profile
 profile: true # whether to show profile bar
+gravatar: true # whether to use gravatar with the email
+showlogo: false # whether to show the logo in the header
 
 # Sidebar
 sidebar: right # set to false if you don't want a sidebar
@@ -32,6 +32,8 @@ contacts:
   google-plus: http://plus.google.com/+BenjaminSproule
   linkedin: http://uk.linkedin.com/pub/benjamin-sproule/50/744/754
   twitter: http://twitter.com/gigaSproule
+
+about: I'm a software developer who likes to tweak/break gadgets and complain about everything under the sun. When I'm not doing that, I'm usually playing games, watching films or watching sports.
 
 # Links
 links:
