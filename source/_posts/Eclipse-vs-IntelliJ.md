@@ -1,7 +1,9 @@
 title: Eclipse vs IntelliJ
 tags:
-  - eclipse
-  - intellij
+  - Eclipse
+  - Intellij
+category:
+  - Development
 date: 2015-06-22 23:33:45
 ---
 For my first real post, I thought I'd take a look at two IDEs that I keep going in between. When I first started to learn to code, I started with Eclipse, as I'm sure a lot of other people did. I then had a brief stint with Netbeans, but that was short lived. Then when I joined Sky, I was introduced to IntelliJ. This was a new revelation to me as it was something worth replacing Eclipse with. But a few colleagues and I have started having some issues with IntelliJ, so I've decided to give Eclipse another go.
