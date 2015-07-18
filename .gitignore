@@ -29,4 +29,9 @@ node_modules
 .idea
 *.iml
 
+.project
+.metadata
+.settings
+RemoteSystemsTempFiles
+
 db.json
