@@ -1,6 +1,6 @@
 title: 'Technical Skills'
-date: 2015-07-18 14:58:32
 comments: false
+hidedate: true
 ---
 I have recently graduated from the University of Wolverhampton with a first class BSc (Hons) Computer Science degree. I also managed to obtain the Deans Computer Science Student of the Year award for my final year dissertation on mobile contextual learning.
 

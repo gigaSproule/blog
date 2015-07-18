@@ -1,6 +1,6 @@
 title: Non-Technical Skills
-date: 2015-07-18 15:43:34
 comments: false
+hidedate: true
 ---
 As with most people, my skills go beyond the technical world. However, these can be hard to demonstrate on a website. A lot of these skills I have picked up whilst working at BSkyB.
 

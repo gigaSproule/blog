@@ -1,6 +1,6 @@
 title: Experience
-date: 2015-07-18 15:45:40
 comments: false
+hidedate: true
 ---
 ##BSkyB
 ###Software Developer - Search
