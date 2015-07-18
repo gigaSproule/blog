@@ -2,7 +2,9 @@
 menu:
   Home: /
   Archives: /archives
-  About: http://www.benjaminsproule.com
+  Experience: /experience
+  Technical Skills: /technical-skills
+  Non-Technical Skills: /non-technical-skills
 
 # Content
 excerpt_link: Read More
