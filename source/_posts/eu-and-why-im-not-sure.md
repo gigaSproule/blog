@@ -7,110 +7,41 @@ category:
 date: 2016-04-24 17:37:22
 ---
 
-As I'm sure everyone in the western world is aware, Britain is looking to leave the EU. This isn't meant to be a post
-to persuade people either way, it's just some thoughts that I have had which may be useful to some off you other people.
-I would also like to point out (as the title of this post suggests) that I am actually undecided on this matter.
+As I'm sure everyone in the western world is aware, Britain is looking to leave the EU. This isn't meant to be a post to persuade people either way, it's just some thoughts that I have had which may be useful to some off you other people. I would also like to point out (as the title of this post suggests) that I am actually undecided on this matter.
 
 ##Trade Deals
-This is something that I (naively) wasn't taking into account, but in fact trade between nations doesn't require a trade
-deal at all. All we require is goods and money. So should we leave the EU, we're not going to lose trade (even if you
-ignore the 2 year leave clause), but what could happen is that we will have to start to pay to export goods to other
-countries (but also charge import tax for their stuff). Of course, leaving the EU will mean we will lose pretty much all
-of our trade deals with other countries, but we're not going to see the collapse of trade that everyone keeps going on
-about.
+This is something that I (naively) wasn't taking into account, but in fact trade between nations doesn't require a trade deal at all. All we require is goods and money. So should we leave the EU, we're not going to lose trade (even if you ignore the 2 year leave clause), but what could happen is that we will have to start to pay to export goods to other countries (but also charge import tax for their stuff). Of course, leaving the EU will mean we will lose pretty much all of our trade deals with other countries, but we're not going to see the collapse of trade that everyone keeps going on about.
 
-But there is one very good point I would like to make though, not all trade deals are good. I urge you to search for
-TTIP, the latest attempt at a trade deal between the EU and US. I have yet to see a positive post on this agreement from
-any source. Even the German people are protesting about it.<sup>[\[1\]](http://www.reuters.com/article/us-trade-protests-germany-idUSKBN0N90LO20150418)</sup>
-For those that are too lazy to search, here is what the [independent says about it](http://www.independent.co.uk/voices/comment/what-is-ttip-and-six-reasons-why-the-answer-should-scare-you-9779688.html).
+But there is one very good point I would like to make though, not all trade deals are good. I urge you to search for TTIP, the latest attempt at a trade deal between the EU and US. I have yet to see a positive post on this agreement from any source. Even the German people are protesting about it.<sup>[\[1\]](http://www.reuters.com/article/us-trade-protests-germany-idUSKBN0N90LO20150418)</sup> For those that are too lazy to search, here is what the [independent says about it](http://www.independent.co.uk/voices/comment/what-is-ttip-and-six-reasons-why-the-answer-should-scare-you-9779688.html).
 
 ##EU Interference
-EU interference is something that I think is a very pressing concern for many people, even outside of the UK.<sup>[\[2\]](http://www.bbc.co.uk/news/world-europe-36087022)</sup>
-Of course, on the other hand, there are the benefits of EU interference, such as better labour laws, cultural incentives
-and agriculture incentives. But any interference is obviously going to be decisive. French agriculture has been floating
-on incentives for so long, people do question why is Britain paying for French farms? Not to say the French aren't paying
-for their farms, or that they aren't paying for ours, because they are, but it should be seen as people saying it shouldn't
-be happening either way.
+EU interference is something that I think is a very pressing concern for many people, even outside of the UK.<sup>[\[2\]](http://www.bbc.co.uk/news/world-europe-36087022)</sup> Of course, on the other hand, there are the benefits of EU interference, such as better labour laws, cultural incentives and agriculture incentives. But any interference is obviously going to be decisive. French agriculture has been floating on incentives for so long, people do question why is Britain paying for French farms? Not to say the French aren't paying for their farms, or that they aren't paying for ours, because they are, but it should be seen as people saying it shouldn't be happening either way.
 
-It is worth mentioning that all EU laws aren't legally binding, they are agreements that all members agree to create laws
-on, so if we do leave, these laws still exist, it's just that they can't be removed whilst we are in the EU.
+It is worth mentioning that all EU laws aren't legally binding, they are agreements that all members agree to create laws on, so if we do leave, these laws still exist, it's just that they can't be removed whilst we are in the EU.
 
 ##Immigration
-By far, this is the biggest thing debated every single time the EU is brought up in British politics, but as someone who
-works with many foreign nationals (EU and non-EU), immigration is good. Would British people do the job just as well or
-better? I don't see why not, but that's not my point here. On a personal level, I really enjoy being challenged about my
-views on things. If you asked me, for the British economy as a whole, is immigration good? I can't say it is, I can't say
-it isn't either, but the facts are out there showing that with the EU migrants, they do help the economy more than they
-hinder it. To the more educated people, this is not the question surrounding immigration, but rather that if we did leave
-the EU, the better skilled people will still come, just the unskilled won't, therefore boosting the UK economy even more.
+By far, this is the biggest thing debated every single time the EU is brought up in British politics, but as someone who works with many foreign nationals (EU and non-EU), immigration is good. Would British people do the job just as well or better? I don't see why not, but that's not my point here. On a personal level, I really enjoy being challenged about my views on things. If you asked me, for the British economy as a whole, is immigration good? I can't say it is, I can't say it isn't either, but the facts are out there showing that with the EU migrants, they do help the economy more than they hinder it. To the more educated people, this is not the question surrounding immigration, but rather that if we did leave the EU, the better skilled people will still come, just the unskilled won't, therefore boosting the UK economy even more.
 
 ##The Labour Conundrum
-As a usual Labour voter, I have been displeased with the current leaders. Ed Miliband was a complete joke of a leader and
-I can almost guarantee that had David Miliband been the leader, we would have a Labour party in power. The current leader,
-Jeremy Corbyn is an interesting character, who I think is a great shake up to the current political situation. Do I think
-he is incompetent? Yes, I would like to think that our PM could at least fill in his tax return on time, but I like the
-fact that someone who is changing things, trying to bring the people into politics, is there.
+As a usual Labour voter, I have been displeased with the current leaders. Ed Miliband was a complete joke of a leader and I can almost guarantee that had David Miliband been the leader, we would have a Labour party in power. The current leader, Jeremy Corbyn is an interesting character, who I think is a great shake up to the current political situation. Do I think he is incompetent? Yes, I would like to think that our PM could at least fill in his tax return on time, but I like the fact that someone who is changing things, trying to bring the people into politics, is there.
 
-So what is this conundrum? The conundrum is about what the EU enforces. On the one hand, the EU laws state that companies
-have certain obligations to fulfil when it comes to employee working conditions, which you can't deny are amazing and
-something we need. As mentioned earlier, these are actually UK laws, not EU laws.
+So what is this conundrum? The conundrum is about what the EU enforces. On the one hand, the EU laws state that companies have certain obligations to fulfil when it comes to employee working conditions, which you can't deny are amazing and something we need. As mentioned earlier, these are actually UK laws, not EU laws.
 
-So far so good for a socialist supporter, but here is the problem, especially for Corbyn's supporters. Nationalisation
-is impossible under EU laws. As long as we are in the EU, we cannot have a nationalised rail service as all industries
-cannot have monopolies (of which a nationalised system would be one). For those that are not from the UK, rail fares are
-very expensive. If a person wants to travel a short(ish) distance on their own, it's usually the same cost to travel by
-car, but if you want to travel a long distance, it's usually double the cost of travelling by car. If we start talking
-about multiple people travelling, you're just increasing train fares, but the car fares are the same. So anything to bring
-the prices down is great for UK citizens and even better for the environment, but I'm too young to know what a nationalised
-rail service is like, I can only go by what I'm told. What I've been told is that it was starved of funds due to politicalisation
-of the service to win points with voters and this is what caused the problem of needing higher fares now. So for some Labour
-supporters, this is not an issue, but for others, this is something that is really important and puts them in a sticky
-situation.
+So far so good for a socialist supporter, but here is the problem, especially for Corbyn's supporters. Nationalisation is impossible under EU laws. As long as we are in the EU, we cannot have a nationalised rail service as all industries cannot have monopolies (of which a nationalised system would be one). For those that are not from the UK, rail fares are very expensive. If a person wants to travel a short(ish) distance on their own, it's usually the same cost to travel by car, but if you want to travel a long distance, it's usually double the cost of travelling by car. If we start talking about multiple people travelling, you're just increasing train fares, but the car fares are the same. So anything to bring the prices down is great for UK citizens and even better for the environment, but I'm too young to know what a nationalised rail service is like, I can only go by what I'm told. What I've been told is that it was starved of funds due to politicalisation of the service to win points with voters and this is what caused the problem of needing higher fares now. So for some Labour supporters, this is not an issue, but for others, this is something that is really important and puts them in a sticky situation.
 
 ##What will the EU look like in 10 years time?
-No one would disagree that staying in the EU would be the best thing to do in the short term as the market likes stability,
-investors like stability and investors like the idea of having free trade with the rest of the EU (or at least the bigger
-economies in the EU). But what about in 10 years time? There is a growing movement against the EU bloc from many countries,
-including France, Germany and smaller countries such as Denmark.
+No one would disagree that staying in the EU would be the best thing to do in the short term as the market likes stability, investors like stability and investors like the idea of having free trade with the rest of the EU (or at least the bigger economies in the EU). But what about in 10 years time? There is a growing movement against the EU bloc from many countries, including France, Germany and smaller countries such as Denmark.
 
-Earlier on in the 'Brexit' discussion, Barclays weighed up with an interesting outcome being that the UK would be better
-off if the did leave because the EU would collapse.<sup>[\[3\]](http://www.telegraph.co.uk/business/2016/02/11/brexit-vote-could-turn-uk-into-a-safe-haven-triggering-eu-disint/)</sup>
-The EU would have to change dramatically to stop this current growing movement of discontent, but that's not to say it
-couldn't or won't. Maybe this is the referendum to show to the EU that it really does need to change and maybe it will.
+Earlier on in the 'Brexit' discussion, Barclays weighed up with an interesting outcome being that the UK would be better off if the did leave because the EU would collapse.<sup>[\[3\]](http://www.telegraph.co.uk/business/2016/02/11/brexit-vote-could-turn-uk-into-a-safe-haven-triggering-eu-disint/)</sup> The EU would have to change dramatically to stop this current growing movement of discontent, but that's not to say it couldn't or won't. Maybe this is the referendum to show to the EU that it really does need to change and maybe it will.
 
-But let's stop being so doom and gloom with the EU breaking up and imagine a world where the EU didn't care that the UK
-left. Would new countries want to join? Turkey is currently wanting to join the EU, but why would the EU want them in?
-Free trade with Turkey won't give much to most EU countries, but would most likely cause a greater drain on finances from
-the EU. Maybe the EU is trying to do a great thing and help Turkey to improve it's economy and stability and make their
-citizens lives better. Call me a cynic, but I don't believe this for a second. You don't have to look far to what the EU
-and it's greatest advocate, Germany, thinks of these smaller economies. Take the Greek crisis for example, if the EU and
-Germany truly cared about the Greek people, they would have been less strict with the austerity and provided more money.
-But the reality is this, Germany has lent too much money to Greece to want it to default on its debts and forcing the
-austerity was just a way to make sure they got their money back as soon as possible. Also, the money they lent to Greece
-was only so they could by German products, therefore meaning Germany got it back anyway in trade, then the loan is re-paid
-with interest, therefore getting even more money from a struggling smaller country. So it does make you question the EUs
-motive in getting Turkey into the EU. But the EU isn't Germany I hear you screaming, no it's not, but it is heavily influenced
-by it's 2 largest fully integrated economies, France and Germany, of which, I'm not sure where France stands on these things,
-but considering they are a _lot_ more socialist that Germany, I would expect them to actually want to help the people rather
-than the companies.
+But let's stop being so doom and gloom with the EU breaking up and imagine a world where the EU didn't care that the UK left. Would new countries want to join? Turkey is currently wanting to join the EU, but why would the EU want them in? Free trade with Turkey won't give much to most EU countries, but would most likely cause a greater drain on finances from the EU. Maybe the EU is trying to do a great thing and help Turkey to improve it's economy and stability and make their citizens lives better. Call me a cynic, but I don't believe this for a second. You don't have to look far to what the EU and it's greatest advocate, Germany, thinks of these smaller economies. Take the Greek crisis for example, if the EU and Germany truly cared about the Greek people, they would have been less strict with the austerity and provided more money. But the reality is this, Germany has lent too much money to Greece to want it to default on its debts and forcing the austerity was just a way to make sure they got their money back as soon as possible. Also, the money they lent to Greece was only so they could by German products, therefore meaning Germany got it back anyway in trade, then the loan is re-paid with interest, therefore getting even more money from a struggling smaller country. So it does make you question the EUs motive in getting Turkey into the EU. But the EU isn't Germany I hear you screaming, no it's not, but it is heavily influenced by it's 2 largest fully integrated economies, France and Germany, of which, I'm not sure where France stands on these things, but considering they are a _lot_ more socialist that Germany, I would expect them to actually want to help the people rather than the companies.
 
-Another more vital question and something that a lot of 'out' supporters are worried about is what will the EU
-become in terms of tighter integration. Quite frankly, the world is becoming smaller and borders are disappearing with
-more free trade agreements all around the world. Nobody knows what will happen with the EU, but my personal opinion is
-that we should either integrate more with Europe or get out now, there is no point being in the middle, not really getting
-what we want or helping the EU.
+Another more vital question and something that a lot of 'out' supporters are worried about is what will the EU become in terms of tighter integration. Quite frankly, the world is becoming smaller and borders are disappearing with more free trade agreements all around the world. Nobody knows what will happen with the EU, but my personal opinion is that we should either integrate more with Europe or get out now, there is no point being in the middle, not really getting what we want or helping the EU.
 
 ##This was a lot of nothing
-I know, I know, there has been no distinct conclusion to this piece and neither was I aiming to, but rather to put my thoughts
-down so I can better weigh up what this referendum really means. There is no right or wrong answer and I really really
-hate the fact that the 'Better In' campaigners never seem to explain their point of view beyond what is basically scare-mongering,
-forcing me to not understand the benefits of the EU. But whatever your view is, just remember that we will be creating
-history that no other country has done before, either we will leave the EU, breaking up the largest ever integrated bloc
-of nations, or we will stay in and will cause the EU to rethink what it is trying to be.
+I know, I know, there has been no distinct conclusion to this piece and neither was I aiming to, but rather to put my thoughts down so I can better weigh up what this referendum really means. There is no right or wrong answer and I really really hate the fact that the 'Better In' campaigners never seem to explain their point of view beyond what is basically scare-mongering, forcing me to not understand the benefits of the EU. But whatever your view is, just remember that we will be creating history that no other country has done before, either we will leave the EU, breaking up the largest ever integrated bloc of nations, or we will stay in and will cause the EU to rethink what it is trying to be.
 
-The BBC has a good ['Reality Check'](http://www.bbc.co.uk/news/live/uk-politics-eu-referendum-35603388) on the referendum
-statistics if you don't want to wade through all the facts either side are giving out and trying to find out whether it
-is all rubbish or not.
+The BBC has a good ['Reality Check'](http://www.bbc.co.uk/news/live/uk-politics-eu-referendum-35603388) on the referendum statistics if you don't want to wade through all the facts either side are giving out and trying to find out whether it is all rubbish or not.
 
 ### References
 \[1\] [http://www.reuters.com/article/us-trade-protests-germany-idUSKBN0N90LO20150418](http://www.reuters.com/article/us-trade-protests-germany-idUSKBN0N90LO20150418)
