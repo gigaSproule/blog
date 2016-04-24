@@ -1,49 +1,77 @@
 # Header
 menu:
-  Home: /
-  Archives: /archives
-  Experience: /experience
-  Technical Skills: /technical-skills
-  Non-Technical Skills: /non-technical-skills
+  Home: .
+  Archives: archives
+  Experience: experience
+  Technical Skills: technical-skills
+  Non-Technical Skills: non-technical-skills
+  About: about
 
-# Content
-excerpt_link: Read More
-fancybox: true
-
-# Profile
-profile: true # whether to show profile bar
-gravatar: true # whether to use gravatar with the email
-showlogo: false # whether to show the logo in the header
+# Customize
+customize:
+  logo:
+    enabled: false
+    width: 40
+    height: 40
+    url: images/logo.png
+  profile:
+    enabled: true
+    gravatar: benjamin@benjaminsproule.com
+    author: Benjamin Sproule
+    author_title: 'Software Developer'
+    location: 'London, United Kingdom'
+    follow: http://github.com/gigaSproule
+  highlight: monokai
+  sidebar: right
+  thumbnail: true
+  favicon: /favicon.png
+  social_links:
+    facebook: http://facebook.com/benjaminsproule
+    github: http://github.com/gigaSproule
+    google-plus: http://plus.google.com/+BenjaminSproule
+    linkedin: http://uk.linkedin.com/pub/benjamin-sproule/50/744/754
+    twitter: http://twitter.com/gigaSproule
+    email: benjamin@benjaminsproule.com
 
 # Sidebar
-sidebar: right # set to false if you don't want a sidebar
 widgets:
-- recent_posts
-- category
-- tag
-- tagcloud
-- archive
-thumbnail: true
+  - recent_posts
+  - category
+  - tag
+  - tagcloud
+  - archive
 
-# Contacts
-contacts:
-  facebook: http://facebook.com/benjaminsproule
-  github: http://github.com/gigaSproule
-  google-plus: http://plus.google.com/+BenjaminSproule
-  linkedin: http://uk.linkedin.com/pub/benjamin-sproule/50/744/754
-  twitter: http://twitter.com/gigaSproule
+# Search
+search:
+    insight: true
+    swiftype:
+    baidu: false
+
+# Comment
+comment:
+  disqus: benjaminsproulecom
+
+# Share
+share: default # options: jiathis, bdshare, addtoany, default
+
+plugins:
+  fancybox: true
+  google_analytics: # enter the tracking ID for your Google Analytics
+  google_site_verification: # enter Google site verification code
+  baidu_analytics: # enter Baidu Analytics hash key
+
+# Miscellaneous
+miscellaneous:
+  open_graph: # see http://ogp.me
+    fb_app_id:
+    fb_admins:
+    twitter_id:
+    google_plus:
+  links:
+    Hexo: http://hexo.io
 
 about: I'm a software developer who likes to tweak/break gadgets and complain about everything under the sun. When I'm not doing that, I'm usually playing games, watching films or watching sports.
 
-# Links
-links:
-  Hexo: http://hexo.io
 
-# Miscellaneous
-google_analytics:
-favicon: /favicon.png
-twitter:
-google_plus:
-fb_admins:
-fb_app_id:
-email: benjamin@benjaminsproule.com
+# Content
+excerpt_link: Read More

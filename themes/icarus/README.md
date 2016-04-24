@@ -1,143 +1,10 @@
 #Icarus
 
 ### The blog theme you may fall in love with, coming to Hexo. [Preview](http://ppoffice.github.io/hexo-theme-icarus/)
-![](http://ppoffice.github.io/hexo-theme-icarus/gallery/preview.jpg "")
+![](http://ppoffice.github.io/hexo-theme-icarus/gallery/preview.png "")
 
-## Installation
-
-### Install
-
-``` bash
-$ git clone https://github.com/ppoffice/hexo-theme-icarus.git themes/icarus
-```
-
-**Icarus requires Hexo 3.0 and above.**
-
-### Enable
-
-1. Rename `themes\icarus\_config.yml.example` to `themes\icarus\_config.yml`;
-2. Copy `themes\icarus\_config.yml.site.example` to your hexo blog's root directory and rename it to `_config.yml`;
-3. Then modify `theme` setting in `_config.yml` to `icarus`.
-
-### Update
-
-``` bash
-cd themes/icarus
-git pull
-```
-
-## Configuration
-
-### Theme configuration example
-```r
-# Header
-menu:
-  Home: .
-  Archives: archives
-  Categories: categories # you need to add extra page to enable this, please see the config below.
-  Tags: tags             # you need to add extra page to enable this, please see the config below.
-  About: about
-
-# Content
-excerpt_link: Read More
-fancybox: true
-
-# Sidebar
-sidebar: right
-widgets:
-- recent_posts
-- category
-- tag
-- tagcloud
-- archive
-thumbnail: true
-
-# Contacts
-contacts:
-  github: http://github.com/ppoffice/hexo-theme-icarus
-  twitter: '#'
-  facebook: '#'
-  dribbble: '#'
-  rss: atom.xml
-
-# Links
-links:
-  Hexo: http://hexo.io
-
-# Miscellaneous
-google_analytics:
-favicon: favicon.png
-twitter:
-google_plus:
-fb_admins:
-fb_app_id:
-```
-
-- **excerpt_link** - Cooperate with `<!-- more -->` tag to show only part of the article in index pages.
-- **fancybox** - Enable [Fancybox].
-- **contacts** - Your social network links, RSS link, etc.
-- **widgets** - Widgets displaying in sidebar.
-- **thumbnail** - Whether to show post thumbnails in the sidebar and archive pages.
-- **links** - Links displayed in the link widget.
-- **google_analytics** - Google Analytics ID.
-- **favicon** - Favicon path.
-
-### Site configuration example
-```r
-# Site
-title: Icarus
-subtitle:
-description: Hexo theme - Icarus
-author: PPOffice
-author_title: 'Web Developer & Designer'
-avatar: css/images/avatar.png
-location: 'Harbin, China'
-language: en
-timezone:
-
-...
-
-# Disqus
-disqus_shortname:
-```
-
-- **author** - Your name.
-- **author_title** - Title to your occupation.
-- **avatar** - Your avatar image link.
-- **location** - Where you live in.
-- **disqus_shortname** - Your Disqus shortname.
-
-### Post Thumbnail & Banner
-
-You can add a thumbnail and a banner to each post by adding the following lines into your post source files' front-matter:
-```r
-title: Demo
-date: 2015-01-01
-...
-# add those
-thumbnail: http://example.com/thumbnail.jpg
-banner: http://example.com/banner.jpg
-```
-
-### Custom Categories & Tags Pages
-
-To enable custom categories page and tags page, just copy the `categories` folder and `tags` folder under your theme's `_source` foler into your site's `source` folder. Then edit theme's _config.yml and add the following lines: 
-```r
-# Header
-menu:
-  ...
-  Categories: categories # -> add this line
-  Tags: tags # -> and add this line
-  ...
-```
-
-### Languages
-
-English and Simplified Chinese are the default languages of the theme. You can add translations in the `languages` folder and change the default language in blog's `_config.yml`.
-
-```r
-language: zh-CN
-```
+#### [View Documentation](https://github.com/ppoffice/hexo-theme-icarus/wiki)
+:star: It is strongly recommended that you read the docs before using Icarus.
 
 ## Features
 
@@ -146,6 +13,11 @@ language: zh-CN
 A nice place to show yourself. You can add your own information in your site's `_config.yml`
 
 ![](http://ppoffice.github.io/hexo-theme-icarus/gallery/profile.png "")
+
+### Self-hosted Insite Search Engine
+With the help of [Insight Search](https://github.com/ppoffice/hexo-theme-icarus/wiki/Search#insight-search), you can search anything inside your site without any third-party plugin.
+
+![](https://ooo.0o0.ooo/2016/04/07/57068467ad5ea.png)
 
 ### Post Banner & Thumbnail
 
@@ -181,23 +53,3 @@ Icarus provides 6 built-in widgets:
 - links
 
 All of them are enabled by default. You can edit them in `widget` setting.
-
-## Development
-
-### Requirements
-
-- [Grunt] 0.4+
-- Hexo 3.0+
-
-### Grunt tasks
-
-- **default** - Download [Fancybox] and [Font Awesome].
-- **fontawesome** - Only download [Font Awesome].
-- **fancybox** - Only download [Fancybox].
-- **clean** - Clean temporarily files and downloaded files.
-
-[Hexo]: http://zespia.tw/hexo/
-[Fancybox]: http://fancyapps.com/fancybox/
-[Font Awesome]: http://fontawesome.io/
-[Grunt]: http://gruntjs.com/
-
