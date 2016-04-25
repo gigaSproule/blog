@@ -8,7 +8,7 @@ category:
 date: 2016-04-24 17:37:22
 ---
 As I'm sure everyone in the western world is aware, Britain is looking to leave the EU. This isn't meant to be a post to persuade people either way, it's just some thoughts that I have had which may be useful to some off you other people. I would also like to point out (as the title of this post suggests) that I am actually undecided on this matter.
-
+<!-- more -->
 ## Trade Deals
 This is something that I (naively) wasn't taking into account, but in fact trade between nations doesn't require a trade deal at all. All we require is goods and money. So should we leave the EU, we're not going to lose trade (even if you ignore the 2 year leave clause), but what could happen is that we will have to start to pay to export goods to other countries (but also charge import tax for their stuff). Of course, leaving the EU will mean we will lose pretty much all of our trade deals with other countries, but we're not going to see the collapse of trade that everyone keeps going on about.
 

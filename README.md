@@ -9,3 +9,12 @@ hexo new draft <title>
 ```
 hexo publish draft <title>
 ```
+
+## Deploy changes
+```
+hexo generate -d
+```
+or
+```
+hexo deploy -g
+```
