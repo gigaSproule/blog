@@ -8,12 +8,12 @@ category:
 date: 2015-06-22 23:33:45
 ---
 For my first real post, I thought I'd take a look at two IDEs that I keep going in between. When I first started to learn to code, I started with Eclipse, as I'm sure a lot of other people did. I then had a brief stint with Netbeans, but that was short lived. Then when I joined Sky, I was introduced to IntelliJ. This was a new revelation to me as it was something worth replacing Eclipse with. But a few colleagues and I have started having some issues with IntelliJ, so I've decided to give Eclipse another go.
-
+<!-- more -->
 ## Overview
 So starting with Eclipse. It actually has quite a lot going for it. First of all, it's fully open source, which is something that I always like to see in the software that I use. It's also amazingly customizable, with every part of it able to be moved around and every feature can be tweaked (even to the extent that it behaves like [IntelliJ](https://github.com/gigaSproule/ideakeyscheme)). Finally, it is extremely popular, which has resulted in an abundance of extensions, causing Eclipse to create a marketplace!
 
 Now with the contender, IntelliJ. IntelliJ comes in two flavours, 'Community Edition' and 'Ultimate'. The first is, like Eclipse, open source, but the latter is proprietary. It hasn't always been open source, I first recall seeing it being open source when Google decided to base their new Android Studio on IntelliJ. Whereas Eclipse seems to be popular everywhere, in my experience, IntelliJ is only popular among businesses, but that could all change because of Google's endorsement. But the main thing that I think makes IntelliJ a real winner, as its name suggests, is that it is genuinely intelligent, far beyond any other IDE.
-<!-- more -->
+
 ## Cost
 This is a fairly easy category to compare them with. Eclipse has a very broad range of extensions and features, meaning that no matter what you are doing, it is a suitable tool for any project and at a grand financial total of nothing (unless you wish to donate). IntelliJ however, is only free for the 'Community Edition' and is limited to non-web technology. So if your project is all about the net, sorry, but you're going to have to fork out the full amount for 'Ultimate' (or at least if you want it for more than 30 days, without constantly uninstalling it and re-installing it).
  
