@@ -9,14 +9,14 @@ description: The blog of Benjamin Sproule
 author: Benjamin Sproule
 author_title: 'Software Developer'
 avatar: css/images/avatar.png
-location: 'London, United Kingdom'
+location: 'Reading, United Kingdom'
 follow: https://github.com/gigaSproule/
 language: en
 timezone:
 
 # URL
 ## If your site is put in a subdirectory, set url as 'http://yoursite.com/child' and root as '/child/'
-url: http://blog.benjaminsproule.com
+url: http://gigasproule.gitlab.io
 root: /
 permalink: :year/:month/:day/:title/
 permalink_defaults:
@@ -30,6 +30,8 @@ category_dir: categories
 code_dir: downloads/code
 i18n_dir: :lang
 skip_render:
+include:
+  - ".well-known/**/*"
 
 # Writing
 new_post_name: :title.md # File name of new posts
@@ -40,7 +42,7 @@ filename_case: 0
 render_drafts: false
 post_asset_folder: false
 relative_link: false
-future: true
+future: false
 highlight:
   enable: true
   line_number: true
@@ -71,6 +73,6 @@ theme: icarus
 
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
+# You can use this:
 deploy:
-  type: git
-  repository: git@github.com:gigasproule/gigasproule.github.io.git
+  type:

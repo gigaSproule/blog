@@ -3,7 +3,7 @@ title: Eclipse vs IntelliJ
 tags:
   - Eclipse
   - Intellij
-category:
+categories:
   - Development
 date: 2015-06-22 23:33:45
 ---

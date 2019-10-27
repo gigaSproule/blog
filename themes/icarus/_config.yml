@@ -1,77 +1,76 @@
-# Header
-menu:
-  Home: .
-  Archives: archives
-  Experience: experience
-  Technical Skills: technical-skills
-  Non-Technical Skills: non-technical-skills
-  About: about
-
-# Customize
-customize:
-  logo:
-    enabled: false
-    width: 40
-    height: 40
-    url: images/logo.png
-  profile:
-    enabled: true
-    gravatar: benjamin@benjaminsproule.com
-    author: Benjamin Sproule
-    author_title: 'Software Developer'
-    location: 'London, United Kingdom'
-    follow: http://github.com/gigaSproule
-  highlight: monokai
-  sidebar: right
-  thumbnail: true
-  favicon: /favicon.png
-  social_links:
-    facebook: http://facebook.com/benjaminsproule
-    github: http://github.com/gigaSproule
-    google-plus: http://plus.google.com/+BenjaminSproule
-    linkedin: http://uk.linkedin.com/pub/benjamin-sproule/50/744/754
-    twitter: http://twitter.com/gigaSproule
-    email: benjamin@benjaminsproule.com
-
-# Sidebar
-widgets:
-  - recent_posts
-  - category
-  - tag
-  - tagcloud
-  - archive
-
-# Search
-search:
-    insight: true
-    swiftype:
-    baidu: false
-
-# Comment
-comment:
-  disqus: benjaminsproulecom
-
-# Share
-share: default # options: jiathis, bdshare, addtoany, default
-
-plugins:
-  fancybox: true
-  google_analytics: # enter the tracking ID for your Google Analytics
-  google_site_verification: # enter Google site verification code
-  baidu_analytics: # enter Baidu Analytics hash key
-
-# Miscellaneous
-miscellaneous:
-  open_graph: # see http://ogp.me
-    fb_app_id:
-    fb_admins:
-    twitter_id:
-    google_plus:
+version: 2.3.0
+favicon:
+rss:
+logo:
+  text: ' '
+open_graph:
+  fb_app_id:
+  fb_admins:
+  twitter_id:
+  twitter_site:
+  google_plus:
+navbar:
+  menu:
+    Home: /
+    About: /about
+    Experience: /experience
   links:
-    Hexo: http://hexo.io
-
-about: I'm a software developer who likes to tweak/break gadgets and complain about everything under the sun. When I'm not doing that, I'm usually playing games, watching films or watching sports.
-
-
-# Content
-excerpt_link: Read More
+footer:
+  links:
+article:
+  # Code highlight theme - https://github.com/highlightjs/highlight.js/tree/master/src/styles
+  highlight: atom-one-light
+  thumbnail: true
+  readtime: true
+search:
+  type: insight
+comment:
+  type: disqus
+  shortname: benjaminsproulecom
+donate:
+share:
+  type:
+sidebar:
+  left:
+    sticky: false
+  right:
+    sticky: false
+widgets:
+  - type: profile
+    position: right
+    author: Benjamin Sproule
+    author_title: Software Developer
+    location: Reading, United Kingdom
+    avatar:
+    gravatar: benjamin@benjaminsproule.com
+    avatar_rounded: false
+    follow_link: 'https://github.com/gigaSproule'
+    social_links:
+      Facebook:
+        icon: fab fa-facebook
+        url: 'https://facebook.com/benjaminsproule'
+      Github:
+        icon: fab fa-github
+        url: 'https://github.com/gigaSproule'
+      LinkedIn:
+        icon: fab fa-linkedin
+        url: 'https://uk.linkedin.com/pub/benjamin-sproule/50/744/754'
+      Twitter:
+        icon: fab fa-twitter
+        url: 'https://twitter.com/gigaSproule'
+  - type: archive
+    position: right
+  - type: category
+    position: right
+  - type: tag
+    position: right
+plugins:
+  animejs: true
+  outdated-browser: true
+  back-to-top: true
+  progressbar: true
+  clipboard: true
+providers:
+  cdn: jsdelivr
+  fontcdn: google
+  iconcdn: fontawesome
