@@ -75,4 +75,7 @@ theme: icarus
 ## Docs: https://hexo.io/docs/deployment.html
 # You can use this:
 deploy:
-  type:
+  type: git
+  repo: https://github.com/gigaSproule/gigasproule.github.io
+  branch: master
+
