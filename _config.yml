@@ -80,6 +80,8 @@ deploy:
 ## Themes: https://hexo.io/themes/
 theme: icarus
 theme_config:
+logo:
+  text: ' '
 navbar:
   menu:
     Home: /
