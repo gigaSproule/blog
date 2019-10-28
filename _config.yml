@@ -71,7 +71,7 @@ pagination_dir: page
 # You can use this:
 deploy:
   - type: git
-    repo: https://${GH_TOKEN}::x-oauth-basic@github.com/gigaSproule/gigasproule.github.io
+    repo: https://${GH_TOKEN}:x-oauth-basic@github.com/gigaSproule/gigasproule.github.io
     branch: master
     name: Benjamin Sproule
     email: benjamin@benjaminsproule.com
