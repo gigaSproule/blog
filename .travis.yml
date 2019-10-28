@@ -10,7 +10,7 @@ script:
   - hexo generate -d # generate static files
 deploy:
   provider: git
-  repo: https://${GH_TOKEN}@github.com/gigaSproule/gigasproule.github.io
+  repo: https://gigaSproule:${GH_TOKEN}@github.com/gigaSproule/gigasproule.github.io
   branch: master
   skip-cleanup: true
   github-token: $GH_TOKEN
