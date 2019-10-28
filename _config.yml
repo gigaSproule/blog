@@ -70,9 +70,9 @@ pagination_dir: page
 ## Docs: https://hexo.io/docs/deployment.html
 # You can use this:
 deploy:
-  type: git
-  repo: https://github.com/gigaSproule/gigasproule.github.io
-  branch: master
+  - type: git
+    repo: https://github.com/gigaSproule/gigasproule.github.io
+    branch: master
 
 
 # Extensions
