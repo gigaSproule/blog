@@ -1,6 +1,4 @@
-Please make sure these boxes are checked before submitting your issue. Thank you!
+Please make sure you took care of the following things before you submit this issue. Thank you!
 
-- [ ] I have inited and configurated the blog according to [Hexo official documentation](https://hexo.io/);
-- [ ] I have read the [Theme Wiki](https://github.com/ppoffice/hexo-theme-icarus/wiki) carefully;
-- [ ] I have looked up the [Issues](https://github.com/ppoffice/hexo-theme-icarus/issues) and found no duplicate issues.
-
+- [ ] I have set up and configured my blog according to the [Hexo docs](https://hexo.io/) and the [Icarus docs](https://ppoffice.github.io/hexo-theme-icarus/);
+- [ ] I have looked up [Github issues](https://github.com/ppoffice/hexo-theme-icarus/issues) and found no solutions to my problems.

@@ -1,11 +1,7 @@
 #!/bin/bash
 
-cd themes/icarus
-mv git .git
+rm -rf themes/icarus
+git clone https://github.com/ppoffice/hexo-theme-icarus.git themes/icarus
+rm -rf themes/icaruse/.git
+cp _config.yml.themebasic themes/icarus/_config.yml
 
-git fetch
-git pull
-
-mv .git git
-
-cd ../..

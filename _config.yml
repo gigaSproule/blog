@@ -66,11 +66,6 @@ time_format: HH:mm:ss
 per_page: 10
 pagination_dir: page
 
-# Extensions
-## Plugins: https://hexo.io/plugins/
-## Themes: https://hexo.io/themes/
-theme: icarus
-
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 # You can use this:
@@ -79,3 +74,71 @@ deploy:
   repo: https://github.com/gigaSproule/gigasproule.github.io
   branch: master
 
+
+# Extensions
+## Plugins: https://hexo.io/plugins/
+## Themes: https://hexo.io/themes/
+theme: icarus
+theme_config:
+navbar:
+  menu:
+    Home: /
+    About: /about
+    Experience: /experience
+  links:
+article:
+  # Code highlight theme - https://github.com/highlightjs/highlight.js/tree/master/src/styles
+  highlight: 
+    theme: atom-one-light
+    clipboard: true
+    fold: unfolded
+  thumbnail: true
+  readtime: true
+search:
+  type: insight
+comment:
+  type: disqus
+  shortname: benjaminsproulecom
+sidebar:
+  left:
+    sticky: false
+  right:
+    sticky: false
+widgets:
+  - type: profile
+    position: right
+    author: Benjamin Sproule
+    author_title: Lead Software Developer
+    location: Reading, United Kingdom
+    avatar:
+    gravatar: benjamin@benjaminsproule.com
+    avatar_rounded: false
+    follow_link: 'https://github.com/gigaSproule'
+    social_links:
+      Facebook:
+        icon: fab fa-facebook
+        url: 'https://facebook.com/benjaminsproule'
+      Github:
+        icon: fab fa-github
+        url: 'https://github.com/gigaSproule'
+      LinkedIn:
+        icon: fab fa-linkedin
+        url: 'https://uk.linkedin.com/pub/benjamin-sproule/50/744/754'
+      Twitter:
+        icon: fab fa-twitter
+        url: 'https://twitter.com/gigaSproule'
+  - type: archive
+    position: right
+  - type: category
+    position: right
+  - type: tag
+    position: right
+plugins:
+  animejs: true
+  outdated-browser: true
+  back-to-top: true
+  progressbar: true
+providers:
+  cdn: jsdelivr
+  fontcdn: google
+  iconcdn: fontawesome
