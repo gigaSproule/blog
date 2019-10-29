@@ -70,12 +70,12 @@ pagination_dir: page
 ## Docs: https://hexo.io/docs/deployment.html
 # You can use this:
 deploy:
-  - type: git
-    repo: https://github.com/gigaSproule/gigasproule.github.io
-    branch: master
-    name: Benjamin Sproule
-    email: benjamin@benjaminsproule.com
-    token: ${GH_TOKEN}
+  type: git
+  repo: https://github.com/gigaSproule/gigasproule.github.io
+  branch: master
+  name: Benjamin Sproule
+  email: benjamin@benjaminsproule.com
+  token: ${GH_TOKEN}
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
@@ -92,7 +92,7 @@ navbar:
   links:
 article:
   # Code highlight theme - https://github.com/highlightjs/highlight.js/tree/master/src/styles
-  highlight: 
+  highlight:
     theme: atom-one-light
     clipboard: true
     fold: unfolded
