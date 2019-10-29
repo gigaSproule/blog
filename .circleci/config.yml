@@ -1,0 +1,34 @@
+version: 2
+jobs:
+  deploy:
+    docker:
+      - image: circleci/node:4.8.2-jessie
+    steps:
+      - checkout
+      - run:
+          name: Update npm
+          command: 'sudo npm install -g npm@latest'
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+      - run:
+          name: Install npm modules
+          command: npm install
+      - run:
+          name: Generate site
+          command: hexo generate
+      - run:
+          name: Deploy site
+          command: hexo deploy
+      - save_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+          paths:
+            - node_modules
+
+workflows:
+  version: 2
+  deploy:
+    jobs:
+      - deploy:
+          filters:
+            branches:
+              only: master
