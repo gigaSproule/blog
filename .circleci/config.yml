@@ -14,6 +14,9 @@ jobs:
           name: Install npm modules
           command: npm install
       - run:
+          name: Install hexo
+          command: npm install -g hexo-cli
+      - run:
           name: Generate site
           command: hexo generate
       - run:
