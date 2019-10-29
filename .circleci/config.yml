@@ -14,14 +14,11 @@ jobs:
           name: Install npm modules
           command: npm install
       - run:
-          name: Install hexo
-          command: npm install -g hexo-cli
-      - run:
           name: Generate site
-          command: hexo generate
+          command: npx hexo generate
       - run:
           name: Deploy site
-          command: hexo deploy
+          command: npx hexo deploy
       - save_cache:
           key: dependency-cache-{{ checksum "package-lock.json" }}
           paths:
