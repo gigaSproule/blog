@@ -75,7 +75,7 @@ deploy:
   branch: master
   name: Benjamin Sproule
   email: benjamin@benjaminsproule.com
-  token: ${GH_TOKEN}
+  token: $GH_TOKEN
 
 # Extensions
 ## Plugins: https://hexo.io/plugins/
