@@ -1,5 +1,26 @@
 version: 2
 jobs:
+  generate_site:
+    docker:
+      - image: circleci/node
+    steps:
+      - checkout
+      - run:
+          name: Update npm
+          command: 'sudo npm install -g npm@latest'
+      - restore_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+      - run:
+          name: Install npm modules
+          command: npm install
+      - run:
+          name: Generate site
+          command: npx hexo generate
+      - save_cache:
+          key: dependency-cache-{{ checksum "package-lock.json" }}
+          paths:
+            - node_modules
+
   deploy:
     docker:
       - image: circleci/node
@@ -26,6 +47,13 @@ jobs:
 
 workflows:
   version: 2
+  generate_site:
+    jobs:
+      - generate_site:
+          filters:
+            branches:
+              ignore:
+                - master
   deploy:
     jobs:
       - deploy:
