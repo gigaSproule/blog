@@ -6,7 +6,7 @@
     "version": "3.9.0"
   },
   "dependencies": {
-    "hexo": "^5.0.2",
+    "hexo": "^5.2.0",
     "hexo-deployer-git": "git+https://github.com/xiaozhikang0916/hexo-deployer-git.git#feature/token",
     "hexo-generator-archive": "^1.0.0",
     "hexo-generator-category": "^1.0.0",
@@ -14,8 +14,8 @@
     "hexo-generator-json-content": "^4.2.3",
     "hexo-generator-tag": "^1.0.0",
     "hexo-renderer-ejs": "^1.0.0",
-    "hexo-renderer-marked": "^3.0.0",
-    "hexo-renderer-stylus": "^2.0.0",
+    "hexo-renderer-marked": "^3.3.0",
+    "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0"
   }
 }
