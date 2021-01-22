@@ -3,15 +3,15 @@
   "version": "0.0.0",
   "private": true,
   "hexo": {
-    "version": "5.2.0"
+    "version": "5.3.0"
   },
   "dependencies": {
-    "bulma-stylus": "0.9.1",
-    "cheerio": "^1.0.0-rc.3",
-    "hexo": "^5.2.0",
+    "bulma-stylus": "0.8.0",
+    "cheerio": "^1.0.0-rc.5",
+    "hexo": "^5.3.0",
     "hexo-component-inferno": "^0.10.5",
     "hexo-deployer-git": "git+https://github.com/xiaozhikang0916/hexo-deployer-git.git#feature/token",
-    "hexo-generator-archive": "^1.0.0",
+    "hexo-generator-archive": "1.0.0",
     "hexo-generator-category": "^1.0.0",
     "hexo-generator-index": "^2.0.0",
     "hexo-generator-json-content": "^4.2.3",
@@ -21,7 +21,7 @@
     "hexo-renderer-marked": "^3.3.0",
     "hexo-renderer-stylus": "^2.0.1",
     "hexo-server": "^2.0.0",
-    "inferno": "^7.4.5",
-    "inferno-create-element": "^7.4.5"
+    "inferno": "^7.4.7",
+    "inferno-create-element": "^7.4.7"
   }
 }
